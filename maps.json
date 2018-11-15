@@ -31,6 +31,38 @@
     {
       "name": "Member States of the United Nations by Decade (2006 - 2015)",
       "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_2006-2015.pdf"
+    },
+    {
+      "name": "The World",
+      "url": "http://www.un.org/Depts/Cartographic/map/profile/world.pdf"
+    },
+    {
+      "name": "Non-Self-Governing Territories",
+      "url": "http://www.un.org/Depts/Cartographic/map/profile/nonselfe.pdf"
+    },
+    {
+      "name": "Territoires Non Autonomes",
+      "url": "http://www.un.org/Depts/Cartographic/map/profile/nonselff.pdf"
+    },
+    {
+      "name": "Territorios No Autónomos",
+      "url": "http://www.un.org/Depts/Cartographic/map/profile/nonselfs.pdf"
+    },
+    {
+      "name": "Southeast Asia",
+      "url": "http://www.un.org/Depts/Cartographic/map/profile/seasia.pdf"
+    },
+    {
+      "name": "South Asia",
+      "url": "http://www.un.org/Depts/Cartographic/map/profile/SouthAsia.pdf"
+    },
+    {
+      "name": "Central Asia",
+      "url": "http://www.un.org/Depts/Cartographic/map/profile/centrasia.pdf"
+    },
+    {
+      "name": "Western Asia",
+      "url": "http://www.un.org/Depts/Cartographic/map/profile/westasia.pdf"
     }
   ]
 }
