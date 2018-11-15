@@ -1,5 +1,5 @@
 {
-  maps: [
+  "maps": [
     {
       "name": "The World in 1944",
       "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_1944.pdf"
@@ -14,7 +14,7 @@
     },
     {
       "name": "Member States of the United Nations by Decade (1966 - 1975)",
-      "url", "http://www.un.org/Depts/Cartographic/map/Member_States/World_1966-1975.pdf"
+      "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_1966-1975.pdf"
     },
     {
       "name": "Member States of the United Nations by Decade (1976 - 1985)",
