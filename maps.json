@@ -1,0 +1,36 @@
+{
+  maps: [
+    {
+      "name": "The World in 1944",
+      "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_1944.pdf"
+    },
+    {
+      "name": "Member States of the United Nations by Decade (1945 - 1955)",
+      "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_1945-1955.pdf"
+    },
+    {
+      "name": "Member States of the United Nations by Decade (1956 - 1965)",
+      "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_1956-1965.pdf",
+    },
+    {
+      "name": "Member States of the United Nations by Decade (1966 - 1975)",
+      "url", "http://www.un.org/Depts/Cartographic/map/Member_States/World_1966-1975.pdf"
+    },
+    {
+      "name": "Member States of the United Nations by Decade (1976 - 1985)",
+      "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_1976-1985.pdf"
+    },
+    {
+      "name": "Member States of the United Nations by Decade (1986 - 1995)",
+      "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_1986-1995.pdf"
+    },
+    {
+      "name": "Member States of the United Nations by Decade (1996 - 2005)",
+      "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_1996-2005.pdf"
+    },
+    {
+      "name": "Member States of the United Nations by Decade (2006 - 2015)",
+      "url": "http://www.un.org/Depts/Cartographic/map/Member_States/World_2006-2015.pdf"
+    }
+  ]
+}
